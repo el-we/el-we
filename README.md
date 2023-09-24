@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @el-we
 - 🏡 I’m interested in space, sustainability and health.
-- 🌱 I’m currently learning javascript, vue.js and databases.
+- 🌱 I’m currently learning cloud technologies.
 - 🚀 I’m looking to collaborate on projects that help making the world a better place for everyone.
 - 📫 How to reach me: Just send me a message here.
 
