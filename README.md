@@ -9,7 +9,7 @@
 
 - 🚀 I’m looking to collaborate on **projects that make the world a better place.**
 
-- 👨‍💻 A website I created is available on [el-we.github.io/Green-World/](el-we.github.io/Green-World/)
+- 👨‍💻 A website I created is available on [el-we.github.io/Green-World/](http://el-we.github.io/Green-World/)
 
 - 📫 How to reach me: **Just send me a message here.**
 
