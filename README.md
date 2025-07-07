@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">A passionate student developer from Germany working at Fraunhofer IPA</h3>
+<h3 align="center">A passionate student developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el-we&label=Profile%20views&color=3a88fe&style=flat" alt="el-we" /> </p>
 
